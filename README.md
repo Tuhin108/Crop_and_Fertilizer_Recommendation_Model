@@ -122,12 +122,6 @@ To report any issues or bugs, please open an issue on the GitHub repository.
 
 ---
 
-## **📜 License**
-
-This project is licensed under the **MIT License**. See the LICENSE file for more details.
-
----
-
 ## **🙏 Acknowledgments**
 
 - **Machine Learning Algorithms**: We used **Naive Bayes** and **Random Forest** to train the crop and fertilizer recommendation models.
